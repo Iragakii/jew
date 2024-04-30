@@ -29,8 +29,24 @@ body {
     margin-left: 30px;
 }
 .div-3 {
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-between;
 }
 .description{
     color: #D4AC6F;
-    font-size: 12px;
+    font-size: 13px;
+    margin-top: 60px;   
+
+}
+.img1 {
+    border-radius: 50px;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;  
+}
+.img2 {
+    border-radius: 400px 0px 0px 60px;
+    position: relative;
+    bottom: 345px;
 }
