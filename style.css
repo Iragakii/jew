@@ -8,6 +8,7 @@ body {
 }
 .page-1{
     background-color: #0A373B;
+    height: 600px;
 }
 .header {
     display:grid;
@@ -36,7 +37,8 @@ body {
 .description{
     color: #D4AC6F;
     font-size: 13px;
-    margin-top: 60px;   
+    margin-top: 60px; 
+    line-height: 17px ;  
 
 }
 .img1 {
