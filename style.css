@@ -1,0 +1,36 @@
+.html{
+    height: 100%;
+    width: 100%;
+
+}
+body {
+    margin: 0;
+}
+.page-1{
+    background-color: #0A373B;
+}
+.header {
+    display:grid;
+    padding-top: 145px;
+    padding-left: 100px;
+
+}
+.sm-title {
+    color: #D4AC6F;
+    text-transform: uppercase;
+    font-family: "Mulish", sans-serif;
+    font-size: 14px;
+
+}
+.lar-title {
+    color: #D4AC6F;
+    font-size: 60px;
+    font-family: "Alice", serif;
+    margin-left: 30px;
+}
+.div-3 {
+}
+.description{
+    color: #D4AC6F;
+    font-size: 12px;
+}
