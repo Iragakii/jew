@@ -52,3 +52,63 @@ body {
     position: relative;
     bottom: 345px;
 }
+.page-2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #EFE7DF;
+    height: 500px;
+    
+
+}
+.header-2    {
+    display: grid;
+    position: relative;
+    left:90px;
+
+}
+.title-2 {
+    color :#B2966C;
+    font-size: 30px;
+    font-family: "Alice", serif;
+    padding-top: 150px;
+    
+
+
+}
+.des-2 {
+    color:#0A373B;
+    font-size: 14px;
+
+}
+.btn-2 {
+    border:none;
+    background-color:#D4AC6F;
+    border-radius: 20px;
+    color: aliceblue;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+}
+.img3 {
+    width: 300px;
+    border-radius: 130px 130px 0px 0px;
+    position: relative;
+    right: 70px;
+    height: 400px;
+    object-fit: cover;
+    top:50px
+}
+.page-3 {
+    background-color: #0A373B;
+    padding: 0;
+    margin: 0;
+}
+.span-1 {
+    color:#D4AC6F;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    
+
+}
